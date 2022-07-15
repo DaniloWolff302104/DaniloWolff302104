@@ -21,7 +21,12 @@ Estou em uma jornada de estudos para me tornar um programador FULLSTACK.<br>
 Este é o meu <a href="https://www.linkedin.com/in/danilo-wolff-2051ba48/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" /></a>
 <br>
 <br>
-![Danilo Wolff stats](https://github-readme-stats.vercel.app/api?username=DaniloWolff&hide=contribs,prs)
+<br>
+
+Tecnologias usadas.
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloWolff302104)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
